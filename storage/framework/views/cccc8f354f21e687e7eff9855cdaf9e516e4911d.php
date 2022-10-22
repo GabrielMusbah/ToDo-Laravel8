@@ -1,0 +1,2 @@
+<script src="<?php echo e(mix('js/app.js')); ?>"></script>
+<?php /**PATH C:\Users\Debi daPupu\Desktop\programacao\php-laravel\udemy-laravel-8-9\exe\example-app\resources\views/partials/footer.blade.php ENDPATH**/ ?>
