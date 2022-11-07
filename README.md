@@ -1,4 +1,4 @@
-Site com lista de atividades, projeto de crud em laravel 8.
+# Site com lista de atividades, projeto de crud em laravel 8.
 
 Site usando PHP, Laravel, Bootstrap e MySQL.
 
